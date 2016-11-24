@@ -1,0 +1,29 @@
+.title {
+	padding: 20px;
+	padding-bottom: 50px;
+	font-size: 40px;
+}
+
+.form {
+	padding-left: 20px;
+	font-weight: bold;
+}
+
+.boxed {
+	border: 2px solid black ;
+	margin-top: 100px;
+	margin-left: 500px;
+	margin-right: 500px;
+}
+
+.innerBoxed {
+	border: 1px solid blue ;
+	margin: 20px;
+
+	color: blue;
+	font-weight: bold;
+}
+
+.result {
+	padding: 20px;
+}
